@@ -4,6 +4,8 @@ var triangeArea = a*h/2;
 
 console.log('Triangle field with base a: ' + a + ' and height h: ' + h + ' is equal to: ' + triangeArea);
 
+//alert('Triangle field with base a: ' + a + ' and height h: ' + h + ' is equal to: ' + triangeArea);
+
 //niżej funkcja
 
 function triangleArea(a,h) {
